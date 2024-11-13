@@ -1,0 +1,20 @@
+/*Perdon profe por usar !important, no me salia de otro modo y se los puse a todos por si acaso*/
+
+.dark-mode {
+    background-color: #212529 !important;
+    color: #fff !important;
+  }
+  .navbar-light-mode {
+    background-color: #fff !important;
+    color: #1a1d21 !important;
+  }
+  .navbar-dark-mode {
+    background-color: #1a1d21 !important;
+    color: white !important;
+  }
+  .navbar-title-dark-mode {
+    color: white !important;
+  }
+  .dark-mode .navbar-brand {
+    color: white !important;
+  }
